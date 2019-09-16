@@ -23,6 +23,12 @@ body{
     font-size: 50px;
 }
 
+.context p{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+}
+
 
 .area{
     background: #000000;  
@@ -129,6 +135,7 @@ body{
     animation-delay: 0s;
     animation-duration: 11s;
 }
+
 
 
 
