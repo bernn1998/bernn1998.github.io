@@ -136,6 +136,15 @@ body{
     animation-duration: 11s;
 }
 
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    float: left;
+}
+
 
 
 
