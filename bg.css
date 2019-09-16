@@ -132,6 +132,7 @@ body{
 }
 
 nav {
+    z-index: 111;
 }
 
 nav ul {
