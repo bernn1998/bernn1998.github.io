@@ -13,6 +13,7 @@ body{
     width: 100%;
     position: absolute;
     top:40vh;    
+    z-index: -1;
 }
 
 .context h1{
@@ -32,6 +33,7 @@ body{
     background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
     width: 100%;
     height:100vh;
+    z-index: -1;
 }
 
 .circles{
@@ -41,6 +43,7 @@ body{
     width: 100%;
     height: 100%;
     overflow: hidden;
+    z-index: -1;
 }
 
 .circles li{
@@ -132,7 +135,7 @@ body{
 }
 
 nav {
-    z-index: 111;
+    z-index: 1;
 }
 
 nav ul {
